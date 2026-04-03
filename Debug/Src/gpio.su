@@ -1,0 +1,7 @@
+../Src/gpio.c:8:6:gpio_clock_enable	16	static
+../Src/gpio.c:20:6:gpio_set_mode	16	static
+../Src/gpio.c:29:6:gpio_set_output_type	16	static
+../Src/gpio.c:38:6:gpio_set_pupd	16	static
+../Src/gpio.c:50:6:gpio_write	16	static
+../Src/gpio.c:61:6:gpio_toggle	16	static
+../Src/gpio.c:68:15:gpio_read	16	static

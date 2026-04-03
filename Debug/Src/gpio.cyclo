@@ -1,0 +1,7 @@
+../Src/gpio.c:8:6:gpio_clock_enable	5
+../Src/gpio.c:20:6:gpio_set_mode	1
+../Src/gpio.c:29:6:gpio_set_output_type	1
+../Src/gpio.c:38:6:gpio_set_pupd	1
+../Src/gpio.c:50:6:gpio_write	2
+../Src/gpio.c:61:6:gpio_toggle	1
+../Src/gpio.c:68:15:gpio_read	1
