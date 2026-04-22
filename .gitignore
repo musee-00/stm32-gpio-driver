@@ -4,3 +4,4 @@ Release/
 *.su
 *.d
 *.o
+.DS_Store
